@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2022-04-17T15:48:30Z" finished-at="2022-04-17T15:48:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2022-04-17T15:48:30Z" finished-at="2022-04-17T15:48:30Z">
+      <class name="mavenfirst.SeleniumTest">
+        <test-method status="PASS" signature="seleniumTest1()[pri:0, instance:mavenfirst.SeleniumTest@32464a14]" name="seleniumTest1" duration-ms="8" started-at="2022-04-17T21:18:30Z" finished-at="2022-04-17T21:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest1 -->
+        <test-method status="PASS" signature="seleniumTest2()[pri:0, instance:mavenfirst.SeleniumTest@32464a14]" name="seleniumTest2" duration-ms="0" started-at="2022-04-17T21:18:30Z" finished-at="2022-04-17T21:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest2 -->
+      </class> <!-- mavenfirst.SeleniumTest -->
+      <class name="mavenfirst.RestAPI">
+        <test-method status="PASS" signature="restAPITest1()[pri:0, instance:mavenfirst.RestAPI@1efee8e7]" name="restAPITest1" duration-ms="0" started-at="2022-04-17T21:18:30Z" finished-at="2022-04-17T21:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPITest1 -->
+        <test-method status="PASS" signature="restAPITest2()[pri:0, instance:mavenfirst.RestAPI@1efee8e7]" name="restAPITest2" duration-ms="0" started-at="2022-04-17T21:18:30Z" finished-at="2022-04-17T21:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPITest2 -->
+      </class> <!-- mavenfirst.RestAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
